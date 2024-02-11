@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Portfolio"
+  site-url: "https://VenkateshKasthala.github.io/Portfolio"
+  description: "my personal portfolio"
+  repo-branch: main
+  repo-url: "https://github.com/VenkateshKasthala/Portfolio"
