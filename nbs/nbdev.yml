@@ -2,7 +2,7 @@ project:
   output-dir: _docs
 
 website:
-  title: "Venkatesh Kastala Portfolio"
+  title: "Portfolio"
   site-url: "https://VenkateshKasthala.github.io/Portfolio"
   description: "Venkatesh Kastala Data Portfolio"
   repo-branch: main
