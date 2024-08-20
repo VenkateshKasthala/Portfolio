@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "Portfolio"
+  title: "Venkatesh Kastala Portfolio"
   site-url: "https://VenkateshKasthala.github.io/Portfolio"
-  description: "my personal portfolio"
+  description: "Venkatesh Kastala Data Portfolio"
   repo-branch: main
   repo-url: "https://github.com/VenkateshKasthala/Portfolio"
