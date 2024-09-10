@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "01_AboutMe.html",
+    "href": "01_AboutMe.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Venkatesh Kastala, a Data Engineer specializing in Python, SQL, and big data technologies. I excel in optimizing ETL pipelines, cloud migrations, and real-time data processing, leveraging tools like AWS, Azure, Kafka, and Spark to turn complex data into actionable insights.\nExperience: 4+ years in data engineering and analytics, with a track record of reducing costs and improving data throughput.\nProficient in Python, SQL, and big data tools; experienced with cloud platforms (AWS, Azure) and real-time data streaming.\nDeveloped real-time data streaming platforms and predictive models to drive business insights.\nTo leverage my expertise to solve complex data challenges, contribute to impactful projects, and advance into a leadership role.",
+    "crumbs": [
+      "About Me"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Hi, this is Venkatesh Kastala.\nWelcome to my personal portfolio. In this repository, want to demonstrate my skills, projects and to keep track of my progression in Data Analytics and Data Science topics.",
+    "crumbs": [
+      "My Portfolio"
+    ]
+  },
+  {
+    "objectID": "03_Contact.html",
+    "href": "03_Contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "email - vkastala38@gmail.com\nmobile - +1 (201) 241-2979",
+    "crumbs": [
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "02_SkillSet.html",
+    "href": "02_SkillSet.html",
+    "title": "SkillSet",
+    "section": "",
+    "text": "Technical Skills\n\nProgramming Languages : Python, SQL, R, PL/SQL\nPython Libraries: NumPy, Pandas, Matplotlib, SciPy, ggplot2, SQLAlchemy, Boto3\nData Management : SQL, Hive, Snowflake, Presto, AWS S3, Azure\nData Visualization : Tableau, Power BI, Cognos, Streamlit, Plotly\nCloud Services : AWS - EC2, RDS, S3, Lambda, Step Functions and Glue\nMethodologies : Agile, Lean, Six Sigma, Data Lifecycle\nBig Data Technologies: Apache Spark, Hadoop, Apache Airflow, Kafka\nIntegration Tools: DevOps, Docker, API Gateways",
+    "crumbs": [
+      "SkillSet"
+    ]
+  }
+]
